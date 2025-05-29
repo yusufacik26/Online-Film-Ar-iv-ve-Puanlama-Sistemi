@@ -1,0 +1,10 @@
+C:\Users\Yusuf Açık\source\repos\Film Arsiv\Film Arsiv\bin\Debug\Film Arsiv.exe.config
+C:\Users\Yusuf Açık\source\repos\Film Arsiv\Film Arsiv\bin\Debug\Film Arsiv.exe
+C:\Users\Yusuf Açık\source\repos\Film Arsiv\Film Arsiv\bin\Debug\Film Arsiv.pdb
+C:\Users\Yusuf Açık\source\repos\Film Arsiv\Film Arsiv\obj\Debug\Film Arsiv.csproj.AssemblyReference.cache
+C:\Users\Yusuf Açık\source\repos\Film Arsiv\Film Arsiv\obj\Debug\Film_Arsiv.Form1.resources
+C:\Users\Yusuf Açık\source\repos\Film Arsiv\Film Arsiv\obj\Debug\Film_Arsiv.Properties.Resources.resources
+C:\Users\Yusuf Açık\source\repos\Film Arsiv\Film Arsiv\obj\Debug\Film Arsiv.csproj.GenerateResource.cache
+C:\Users\Yusuf Açık\source\repos\Film Arsiv\Film Arsiv\obj\Debug\Film Arsiv.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf Açık\source\repos\Film Arsiv\Film Arsiv\obj\Debug\Film Arsiv.exe
+C:\Users\Yusuf Açık\source\repos\Film Arsiv\Film Arsiv\obj\Debug\Film Arsiv.pdb

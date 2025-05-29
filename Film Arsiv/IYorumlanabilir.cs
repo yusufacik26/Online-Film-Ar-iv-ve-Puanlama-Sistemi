@@ -8,6 +8,6 @@ namespace Film_Arsiv
 {
     internal interface IYorumlanabilir
     {
-        
+        void YorumYap(Yorum yorum);
     }
 }

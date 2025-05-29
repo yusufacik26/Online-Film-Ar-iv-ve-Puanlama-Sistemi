@@ -5,7 +5,7 @@ namespace Film_Arsiv {
 public class Admin: Kullanıcı
 {
 
-    public Admin(string kullaniciAdi) : base(kullaniciAdi) { }
+    public Admin(string kullaniciAdi,string Sifre,string Rol) : base(kullaniciAdi,Sifre,Rol) { }
 
 
 }

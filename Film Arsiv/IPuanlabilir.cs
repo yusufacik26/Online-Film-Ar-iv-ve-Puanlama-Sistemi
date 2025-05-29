@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace Film_Arsiv
 {
-    internal interface IPuanlanabilir
+    public interface IPuanlanabilir
     {
-
+       void PuanVer(int puan);
     }
 }

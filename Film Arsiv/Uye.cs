@@ -6,7 +6,14 @@ using System.Threading.Tasks;
 
 namespace Film_Arsiv
 {
-    internal class Uye
+    internal class Uye : Kullanıcı
     {
+        public Uye(string kullaniciAdi, string Sifre, string Rol) : base(kullaniciAdi, Sifre, Rol) { 
+        
+
+        
+        }
+
+        
     }
 }

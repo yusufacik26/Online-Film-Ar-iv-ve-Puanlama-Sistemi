@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yusuf A\u00E7\u0131k\\source\\repos\\Film Arsiv\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D656847-15B2-4DB5-A82D-46BB545D1361}|Film Arsiv\\Film Arsiv.csproj|c:\\users\\yusuf a\u00E7\u0131k\\source\\repos\\film arsiv\\film arsiv\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D656847-15B2-4DB5-A82D-46BB545D1361}|Film Arsiv\\Film Arsiv.csproj|solutionrelative:film arsiv\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D656847-15B2-4DB5-A82D-46BB545D1361}|Film Arsiv\\Film Arsiv.csproj|C:\\Users\\Yusuf A\u00E7\u0131k\\source\\repos\\Film Arsiv\\film arsiv\\iyorumlanabilir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D656847-15B2-4DB5-A82D-46BB545D1361}|Film Arsiv\\Film Arsiv.csproj|solutionrelative:film arsiv\\iyorumlanabilir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D656847-15B2-4DB5-A82D-46BB545D1361}|Film Arsiv\\Film Arsiv.csproj|C:\\Users\\Yusuf A\u00E7\u0131k\\source\\repos\\Film Arsiv\\film arsiv\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D656847-15B2-4DB5-A82D-46BB545D1361}|Film Arsiv\\Film Arsiv.csproj|solutionrelative:film arsiv\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D656847-15B2-4DB5-A82D-46BB545D1361}|Film Arsiv\\Film Arsiv.csproj|C:\\Users\\Yusuf A\u00E7\u0131k\\source\\repos\\Film Arsiv\\film arsiv\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D656847-15B2-4DB5-A82D-46BB545D1361}|Film Arsiv\\Film Arsiv.csproj|solutionrelative:film arsiv\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D656847-15B2-4DB5-A82D-46BB545D1361}|Film Arsiv\\Film Arsiv.csproj|C:\\Users\\Yusuf A\u00E7\u0131k\\source\\repos\\Film Arsiv\\film arsiv\\kullan\u0131c\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D656847-15B2-4DB5-A82D-46BB545D1361}|Film Arsiv\\Film Arsiv.csproj|solutionrelative:film arsiv\\kullan\u0131c\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D656847-15B2-4DB5-A82D-46BB545D1361}|Film Arsiv\\Film Arsiv.csproj|C:\\Users\\Yusuf A\u00E7\u0131k\\source\\repos\\Film Arsiv\\film arsiv\\ipuanlabilir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D656847-15B2-4DB5-A82D-46BB545D1361}|Film Arsiv\\Film Arsiv.csproj|solutionrelative:film arsiv\\ipuanlabilir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D656847-15B2-4DB5-A82D-46BB545D1361}|Film Arsiv\\Film Arsiv.csproj|C:\\Users\\Yusuf A\u00E7\u0131k\\source\\repos\\Film Arsiv\\film arsiv\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D656847-15B2-4DB5-A82D-46BB545D1361}|Film Arsiv\\Film Arsiv.csproj|solutionrelative:film arsiv\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D656847-15B2-4DB5-A82D-46BB545D1361}|Film Arsiv\\Film Arsiv.csproj|C:\\Users\\Yusuf A\u00E7\u0131k\\source\\repos\\Film Arsiv\\film arsiv\\uye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D656847-15B2-4DB5-A82D-46BB545D1361}|Film Arsiv\\Film Arsiv.csproj|solutionrelative:film arsiv\\uye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D656847-15B2-4DB5-A82D-46BB545D1361}|Film Arsiv\\Film Arsiv.csproj|C:\\Users\\Yusuf A\u00E7\u0131k\\source\\repos\\Film Arsiv\\film arsiv\\yorum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D656847-15B2-4DB5-A82D-46BB545D1361}|Film Arsiv\\Film Arsiv.csproj|solutionrelative:film arsiv\\yorum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Film.cs",
+              "DocumentMoniker": "C:\\Users\\Yusuf A\u00E7\u0131k\\source\\repos\\Film Arsiv\\Film Arsiv\\Film.cs",
+              "RelativeDocumentMoniker": "Film Arsiv\\Film.cs",
+              "ToolTip": "C:\\Users\\Yusuf A\u00E7\u0131k\\source\\repos\\Film Arsiv\\Film Arsiv\\Film.cs",
+              "RelativeToolTip": "Film Arsiv\\Film.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIA3wA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T12:33:23.075Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Kullan\u0131c\u0131.cs",
+              "DocumentMoniker": "C:\\Users\\Yusuf A\u00E7\u0131k\\source\\repos\\Film Arsiv\\Film Arsiv\\Kullan\u0131c\u0131.cs",
+              "RelativeDocumentMoniker": "Film Arsiv\\Kullan\u0131c\u0131.cs",
+              "ToolTip": "C:\\Users\\Yusuf A\u00E7\u0131k\\source\\repos\\Film Arsiv\\Film Arsiv\\Kullan\u0131c\u0131.cs",
+              "RelativeToolTip": "Film Arsiv\\Kullan\u0131c\u0131.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T16:34:12.031Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "yorum.cs",
+              "DocumentMoniker": "C:\\Users\\Yusuf A\u00E7\u0131k\\source\\repos\\Film Arsiv\\Film Arsiv\\yorum.cs",
+              "RelativeDocumentMoniker": "Film Arsiv\\yorum.cs",
+              "ToolTip": "C:\\Users\\Yusuf A\u00E7\u0131k\\source\\repos\\Film Arsiv\\Film Arsiv\\yorum.cs",
+              "RelativeToolTip": "Film Arsiv\\yorum.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T15:14:58.354Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Uye.cs",
+              "DocumentMoniker": "C:\\Users\\Yusuf A\u00E7\u0131k\\source\\repos\\Film Arsiv\\Film Arsiv\\Uye.cs",
+              "RelativeDocumentMoniker": "Film Arsiv\\Uye.cs",
+              "ToolTip": "C:\\Users\\Yusuf A\u00E7\u0131k\\source\\repos\\Film Arsiv\\Film Arsiv\\Uye.cs",
+              "RelativeToolTip": "Film Arsiv\\Uye.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T16:36:32.704Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\Yusuf A\u00E7\u0131k\\source\\repos\\Film Arsiv\\Film Arsiv\\Admin.cs",
+              "RelativeDocumentMoniker": "Film Arsiv\\Admin.cs",
+              "ToolTip": "C:\\Users\\Yusuf A\u00E7\u0131k\\source\\repos\\Film Arsiv\\Film Arsiv\\Admin.cs",
+              "RelativeToolTip": "Film Arsiv\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T16:28:34.547Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPuanlabilir.cs",
+              "DocumentMoniker": "C:\\Users\\Yusuf A\u00E7\u0131k\\source\\repos\\Film Arsiv\\Film Arsiv\\IPuanlabilir.cs",
+              "RelativeDocumentMoniker": "Film Arsiv\\IPuanlabilir.cs",
+              "ToolTip": "C:\\Users\\Yusuf A\u00E7\u0131k\\source\\repos\\Film Arsiv\\Film Arsiv\\IPuanlabilir.cs",
+              "RelativeToolTip": "Film Arsiv\\IPuanlabilir.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T16:40:11.652Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IYorumlanabilir.cs",
+              "DocumentMoniker": "C:\\Users\\Yusuf A\u00E7\u0131k\\source\\repos\\Film Arsiv\\Film Arsiv\\IYorumlanabilir.cs",
+              "RelativeDocumentMoniker": "Film Arsiv\\IYorumlanabilir.cs",
+              "ToolTip": "C:\\Users\\Yusuf A\u00E7\u0131k\\source\\repos\\Film Arsiv\\Film Arsiv\\IYorumlanabilir.cs",
+              "RelativeToolTip": "Film Arsiv\\IYorumlanabilir.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T16:38:58.854Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Yusuf A\u00E7\u0131k\\source\\repos\\Film Arsiv\\Film Arsiv\\Form1.cs",
+              "RelativeDocumentMoniker": "Film Arsiv\\Form1.cs",
+              "ToolTip": "C:\\Users\\Yusuf A\u00E7\u0131k\\source\\repos\\Film Arsiv\\Film Arsiv\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Film Arsiv\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T16:23:39.201Z",
+              "IsPinned": true,
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Yusuf A\u00E7\u0131k\\source\\repos\\Film Arsiv\\Film Arsiv\\Form1.cs",
+              "RelativeDocumentMoniker": "Film Arsiv\\Form1.cs",
+              "ToolTip": "C:\\Users\\Yusuf A\u00E7\u0131k\\source\\repos\\Film Arsiv\\Film Arsiv\\Form1.cs",
+              "RelativeToolTip": "Film Arsiv\\Form1.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAewLAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T15:29:09.867Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

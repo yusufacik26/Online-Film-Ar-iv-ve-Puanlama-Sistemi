@@ -63,9 +63,9 @@
             // Listeleme
             // 
             this.Listeleme.FormattingEnabled = true;
-            this.Listeleme.Location = new System.Drawing.Point(744, 90);
+            this.Listeleme.Location = new System.Drawing.Point(704, 90);
             this.Listeleme.Name = "Listeleme";
-            this.Listeleme.Size = new System.Drawing.Size(146, 147);
+            this.Listeleme.Size = new System.Drawing.Size(385, 225);
             this.Listeleme.TabIndex = 0;
             this.Listeleme.SelectedIndexChanged += new System.EventHandler(this.Listeleme_SelectedIndexChanged);
             // 

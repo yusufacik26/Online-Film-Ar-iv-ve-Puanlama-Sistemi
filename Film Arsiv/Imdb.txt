@@ -1,0 +1,103 @@
+The Shawshank Redemption | Drama | 1994 | 8,10
+The Godfather | Crime | 1972 | 7,60
+The Dark Knight | Action | 2008 | 7,10
+The Godfather Part II | Crime | 1974 | 7,60
+12 Angry Men | Crime | 1957 | 7,40
+Schindler's List | Biography | 1993 | 7,00
+The Lord of the Rings: The Return of the King | Action | 2003 | 8,20
+Pulp Fiction | Crime | 1994 | 6,70
+The Good, the Bad and the Ugly | Western | 1966 | 8,20
+The Lord of the Rings: The Fellowship of the Ring | Action | 2001 | 9,30
+Fight Club | Drama | 1999 | 6,70
+Forrest Gump | Drama | 1994 | 8,80
+Inception | Action | 2010 | 9,00
+The Lord of the Rings: The Two Towers | Action | 2002 | 7,20
+Star Wars: Episode V - The Empire Strikes Back | Action | 1980 | 7,80
+The Matrix | Action | 1999 | 8,40
+Goodfellas | Biography | 1990 | 8,40
+One Flew Over the Cuckoo's Nest | Drama | 1975 | 9,30
+Se7en | Crime | 1995 | 7,20
+Seven Samurai | Action | 1954 | 7,70
+City of God | Crime | 2002 | 6,90
+The Silence of the Lambs | Crime | 1991 | 6,80
+It's a Wonderful Life | Drama | 1946 | 8,20
+Life Is Beautiful | Comedy | 1997 | 8,90
+The Usual Suspects | Crime | 1995 | 7,50
+Léon: The Professional | Action | 1994 | 8,00
+Spirited Away | Animation | 2001 | 8,60
+Saving Private Ryan | Drama | 1998 | 7,00
+Interstellar | Adventure | 2014 | 8,00
+The Green Mile | Crime | 1999 | 6,50
+Parasite | Comedy | 2019 | 8,20
+Harakiri | Action | 1962 | 8,50
+The Pianist | Biography | 2002 | 9,10
+The Lion King | Animation | 1994 | 7,90
+Terminator 2: Judgment Day | Action | 1991 | 7,90
+Back to the Future | Adventure | 1985 | 7,80
+Whiplash | Drama | 2014 | 9,00
+Gladiator | Action | 2000 | 7,80
+The Prestige | Drama | 2006 | 7,70
+The Departed | Crime | 2006 | 6,70
+The Intouchables | Biography | 2011 | 6,90
+The Lives of Others | Drama | 2006 | 8,30
+Grave of the Fireflies | Animation | 1988 | 6,90
+Cinema Paradiso | Drama | 1988 | 8,50
+Django Unchained | Drama | 2012 | 7,60
+The Shining | Drama | 1980 | 8,70
+Paths of Glory | Drama | 1957 | 6,80
+WALL·E | Animation | 2008 | 7,90
+American Beauty | Drama | 1999 | 7,40
+The Dark Knight Rises | Action | 2012 | 7,70
+Oldboy | Action | 2003 | 7,40
+Princess Mononoke | Animation | 1997 | 7,10
+Aliens | Action | 1986 | 7,80
+Witness for the Prosecution | Crime | 1957 | 7,40
+Once Upon a Time in the West | Western | 1968 | 9,10
+Casablanca | Drama | 1942 | 7,00
+Rear Window | Mystery | 1954 | 9,20
+The Great Dictator | Comedy | 1940 | 7,50
+Modern Times | Comedy | 1936 | 6,50
+The Hunt | Crime | 2012 | 8,30
+M | Crime | 1931 | 8,50
+The Apartment | Comedy | 1960 | 6,70
+Double Indemnity | Crime | 1944 | 7,50
+The Third Man | Film-Noir | 1949 | 7,60
+The Kid | Comedy | 1921 | 9,10
+Braveheart | Biography | 1995 | 9,20
+Requiem for a Dream | Drama | 2000 | 8,80
+Amélie | Comedy | 2001 | 8,60
+A Clockwork Orange | Crime | 1971 | 9,10
+Like Stars on Earth | Drama | 2007 | 7,80
+Lawrence of Arabia | Adventure | 1962 | 6,70
+Eternal Sunshine of the Spotless Mind | Drama | 2004 | 9,20
+Amadeus | Biography | 1984 | 8,20
+To Kill a Mockingbird | Crime | 1962 | 8,40
+Toy Story 3 | Animation | 2010 | 9,65
+Reservoir Dogs | Crime | 1992 | 9,10
+Das Boot | Drama | 1981 | 7,10
+Citizen Kane | Drama | 1941 | 7,40
+Vertigo | Mystery | 1958 | 7,50
+North by Northwest | Adventure | 1959 | 6,90
+Star Wars: Episode VI - Return of the Jedi | Action | 1983 | 8,00
+Singin' in the Rain | Comedy | 1952 | 7,90
+2001: A Space Odyssey | Adventure | 1968 | 9,20
+The Sting | Comedy | 1973 | 8,30
+Bicycle Thieves | Drama | 1948 | 6,80
+The Father | Drama | 2020 | 6,70
+The Truman Show | Comedy | 1998 | 7,50
+The Grand Budapest Hotel | Adventure | 2014 | 9,20
+The Big Lebowski | Comedy | 1998 | 7,50
+The Elephant Man | Biography | 1980 | 9,10
+The Sixth Sense | Drama | 1999 | 8,20
+No Country for Old Men | Crime | 2007 | 6,70
+The Thing | Horror | 1982 | 8,00
+The Wolf of Wall Street | Biography | 2013 | 7,10
+There Will Be Blood | Drama | 2007 | 7,90
+The Social Network | Biography | 2010 | 8,90
+The Imitation Game | Biography | 2014 | 8,00
+Spotlight | Biography | 2015 | 8,60
+Room | Drama | 2015 | 9,00
+Inside Out | Animation | 2015 | 8,30
+Gora | Comedy | 2000 | 6,50
+Spiderman 1 | Fantastik | 2002 | 9,69
+Revenant | Gerçekçi | 2014 | 9,38
